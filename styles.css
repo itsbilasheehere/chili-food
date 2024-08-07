@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap");
+
+:root {
+  --red: hsl(0, 100%, 50%);
+  --white: hsl(0, 0%, 100%);
+  --carbon: hsl(0, 0%, 20%);
+  --navy: hsl(209, 23%, 26%);
+  --dark-red: hsl(2, 89%, 44%);
+  --aurora-red: hsl(0, 56%, 48%);
+  --light-white: hsl(0, 0%, 96%);
+  --dusky: hsla(240, 18%, 76%, 0.702);
+  --red-alpha: hsla(0, 100%, 50%, 0.369);
+}
+
+body {
+  font-family: "Quicksand", sans-serif;
+}
